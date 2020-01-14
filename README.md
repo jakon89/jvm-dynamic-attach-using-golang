@@ -12,5 +12,8 @@ tl;dr:
 
 I suggest going trough [dunamic_attach.go](dynamic_attach.go)#executeCommand method to see what's inside.
 
+#### Demo
+
+Just run `docker-compose up` and observe the output carefully.
 
 See also blogpost describing what one could do using techniques presented here.
